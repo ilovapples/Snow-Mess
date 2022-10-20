@@ -1,0 +1,1 @@
+execute as @a[nbt={Inventory:[{id:"minecraft:powder_snow_bucket",Slot:-106b}]}] run execute at @e[type=minecraft:snowball] run execute positioned ^ ^ ^-2 run function sm:powdersnowblock

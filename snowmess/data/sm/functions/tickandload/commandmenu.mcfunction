@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Click "},{"text":"[Here]","color":"aqua","clickEvent":{"action":"run_command","value":"/function sm:commands"},"hoverEvent":{"action":"show_text","contents":"Here"}},{"text":" to get the command blocks.\nJust place them down somewhere thats loaded,\nand you're good!"}]

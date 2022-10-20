@@ -1,2 +1,2 @@
 # Snow-Mess
- A datapack for Minecraft.
+ A datapack for Minecraft. 

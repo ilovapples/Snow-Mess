@@ -1,0 +1,1 @@
+execute as @a[nbt={Inventory:[{id:"minecraft:snowball",Slot:-106b}]}] run execute at @e[type=minecraft:snowball] run execute positioned ^ ^ ^-2 run summon minecraft:falling_block ~ ~ ~ {BlockState:{Name:"minecraft:snow"},NoGravity:1}
